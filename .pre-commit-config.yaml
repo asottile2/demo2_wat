@@ -1,4 +1,5 @@
 ci:
+    autoupdate_branch: dev2
     autoupdate_commit_msg: '[automated] pre-commit autoupdate'
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
